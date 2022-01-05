@@ -1,0 +1,13 @@
+﻿  Algorithms.cpp
+D:\HashTable\HashTable\Algorithms.cpp(201,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\HashTable\HashTable\Algorithms.cpp(250,35): warning C4244: '=': conversion from '_Rep' to 'double', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+D:\HashTable\HashTable\Algorithms.cpp(252,35): warning C4244: '=': conversion from '_Rep' to 'double', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+  HashTable.vcxproj -> D:\HashTable\Debug\HashTable.exe
